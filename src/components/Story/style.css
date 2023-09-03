@@ -1,0 +1,12 @@
+.story-wrap {
+display: flex;
+justify-content: center;
+}
+
+.story{
+ display: flex; 
+ flex-direction: column;
+ width: 700px;
+ font-size: 18px;
+ text-align: justify;
+}

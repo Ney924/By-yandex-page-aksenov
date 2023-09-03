@@ -1,0 +1,20 @@
+.photo {
+  /* height: 200px; */
+  width: 500px;
+  margin: 20px 0;
+}
+
+.aaa{
+  background-color: blueviolet;
+  width: 100%;
+}
+
+.sliderVrap {
+  width: 500px;
+}
+
+.im-in-scool {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
