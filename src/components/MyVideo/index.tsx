@@ -10,7 +10,6 @@ export const MyVideo = () => {
         height="400"
         controls
       />
-      Тут скоро будет видео
     </div>
   );
 };

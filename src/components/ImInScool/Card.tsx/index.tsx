@@ -11,7 +11,7 @@ export const CarouselItem = ({ photo, title, description }: ICarouselItem) => {
   return (
     <div>
       <Card style={{ width: "100%" }}>
-        <Card.Img variant="top" src={photo} />
+        <Card.Img variant="top" src={photo} className="aaa"/>
         <Card.Body>
           <Card.Title>{title}</Card.Title>
           <Card.Text>{description}</Card.Text>
